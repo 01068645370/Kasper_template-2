@@ -212,7 +212,7 @@ header nav .form i {
 .landing {
     position: relative;
     min-height: 100vh;
-    background-image: url(/images/landing.jpg);
+    background-image: url(images/landing.jpg);
     background-size: cover;
 }
 
@@ -373,7 +373,7 @@ header nav .form i {
 /* end services */
 /* start design */
 .design {
-    background-image: url(/images/design-features.jpg);
+    background-image: url(images/design-features.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
@@ -632,7 +632,7 @@ header nav .form i {
 .state {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(/images/stats.png);
+    background-image: url(images/stats.png);
     background-size: cover;
     text-align: center;
     position: relative;
@@ -854,7 +854,7 @@ header nav .form i {
 .quote {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(/images/quote.jpg);
+    background-image: url(images/quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -1000,7 +1000,7 @@ header nav .form i {
 .subscribe {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -1170,7 +1170,7 @@ header nav .form i {
 .footer {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
